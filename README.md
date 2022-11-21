@@ -1,4 +1,4 @@
-# Server Client Data Transfer over Cloud
+# Sensor Data Transfer over Cloud
 
 ## Project Overview
 
